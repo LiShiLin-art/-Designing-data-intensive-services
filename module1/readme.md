@@ -250,7 +250,7 @@ async def get_product(product_id: int):
 fastapi dev main.py
 ```
 
-Вы должны увидеть вывод,类似:
+Вы должны увидеть вывод:
 
 ```
 INFO:     Uvicorn running on http://127.0.0.1:8000 (Press CTRL+C to quit)
